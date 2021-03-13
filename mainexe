@@ -10,6 +10,6 @@
 #10980
 
 
-num = input()
-print(int(num,17))
+num = input() #taking input as string
+print(int(num,17))   #int func has two variables, (string, base) by default base is 10
  
